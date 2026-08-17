@@ -1,0 +1,1 @@
+"""CrashJarvis application package."""

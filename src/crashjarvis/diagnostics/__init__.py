@@ -1,0 +1,1 @@
+"""CrashJarvis diagnostic entry points."""

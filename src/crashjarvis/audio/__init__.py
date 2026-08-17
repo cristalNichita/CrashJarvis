@@ -1,0 +1,1 @@
+"""Audio capture and speech processing components."""
