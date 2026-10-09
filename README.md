@@ -1,7 +1,7 @@
 ﻿# CrashJarvis
 
 CrashJarvis is a local voice AI agent for Windows built for the Crashbyt YouTube
-channel. It listens for **вЂњHey JarvisвЂќ**, transcribes speech locally, lets a
+channel. It listens for **Hey Jarvis**, transcribes speech locally, lets a
 local Qwen model choose tools, controls desktop applications, and answers with
 a local Kokoro voice.
 
@@ -94,5 +94,5 @@ support or compatibility with every Windows setup.
 
 ## License
 
-MIT вЂ” see [LICENSE](LICENSE).
+MIT see [LICENSE](LICENSE).
 
